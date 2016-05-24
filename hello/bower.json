@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "homepage": "https://www.eba.europa.eu",
+  "authors": [
+    "Jayakumar Jayaraman <jayakumar.jayaraman@eba.europa.eu>"
+  ],
+  "description": "Angular Hello world",
+  "main": "src/main/webapp/index.html",
+  "keywords": [
+    "client"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+	"bootstrap":"3.3.6",
+	"angular":"1.5.5"
+  },
+  "resolutions": {
+    "angular": "1.5.5"
+  }
+}
